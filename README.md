@@ -1,7 +1,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 ## About this project
-This project use React as frontend framework node.js as backend framework material UI for UI library and Recoil as state management library. You can go to [Live Demo](https://chat-462f6.web.app/) for more details.
-Different users can go into the same room to chat with each other. A room cannot exist multiple users with same name. Just join with your friend and have fun! 
+This project uses React as frontend, node.js as backend, material UI for UI and Recoil as state management. You can go to [Live Demo](https://chat-462f6.web.app/) for more details.
+Different users can go into the same room to chat with each other. There cannot exist multiple users in the same room. Just join with your friend and have fun! 
 
 ## Available Scripts
 
